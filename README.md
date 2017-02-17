@@ -1,2 +1,0 @@
-# rockesh
-MyNewProj
